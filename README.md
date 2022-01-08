@@ -1,4 +1,4 @@
-# Going-counterless-
+# Going-counterless- Course project
 The Going counterless is an application is a movie ticket booking app, with simple user interface.
 this is our mini project for software development.
 #It uses firebase database.
@@ -15,3 +15,12 @@ Material Design
 Every user has unique account to access
 Cancel & Refund initiated option from user side
 User Friendly Navigation.
+
+Group members:-
+Group 22 Members - 
+1. Samay Sonje - 15
+2. Rushikesh Salunkhe - 13
+3. Sammed Patil - 16
+4. Prathmesh vaishnav- 61
+Batch ID - D1
+Group ID - Group 22
